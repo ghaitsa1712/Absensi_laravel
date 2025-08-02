@@ -5,6 +5,7 @@ MySQL or a database compatible with Laravel
 Installation
 To run this project in a local environment, follow these steps:
 
+
 1. Clone the Repository
 Clone this repository to your local machine using the command:
 

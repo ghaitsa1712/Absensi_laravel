@@ -1,6 +1,6 @@
 ## ⚡ Instalasi Super Cepat
 ### 🔥 Persyaratan
-- **PHP > 8.1.0**
+- **PHP > 8.3.0**
 - **MySQL**
 
 ### 🚀 Setup dengan Makefile (Paling Gampang)
